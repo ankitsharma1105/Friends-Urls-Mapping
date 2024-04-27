@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-origin: padding-box;
+}
+
+.container {
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(157, 238, 238);
+    background-color: aliceblue;
+    box-shadow: 0, 0, 15;
+    padding: 100px;
+    width: 1000px;
+    height: 1500px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+}
